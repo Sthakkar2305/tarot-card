@@ -19,21 +19,21 @@ const products = [
     id: 1,
     name: 'Mystic Tarot Deck',
     price: 45.99,
-    image: 'https://images.unsplash.com/photo-1632767037838-957db2832af3?q=80&w=500',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcfqKjgwdIwWhLbzI79x4kJFjGKU4axvm7dg&s',
     description: 'Hand-illustrated premium tarot deck with gold foil details'
   },
   {
     id: 2,
     name: 'Crystal Bundle',
     price: 89.99,
-    image: 'https://images.unsplash.com/photo-1632767155230-72c319e7902b?q=80&w=500',
+    image: 'https://i.etsystatic.com/24342023/r/il/1e33a5/4108296455/il_570xN.4108296455_7g4x.jpg',
     description: 'Set of 5 healing crystals for enhanced readings'
   },
   {
     id: 3,
     name: 'Silk Reading Cloth',
     price: 29.99,
-    image: 'https://images.unsplash.com/photo-1632767037461-db5c29ea87c1?q=80&w=500',
+    image: 'https://i.etsystatic.com/20419117/r/il/b54877/3296448013/il_570xN.3296448013_1v9q.jpg',
     description: 'Luxurious silk cloth with celestial design'
   }
 ];

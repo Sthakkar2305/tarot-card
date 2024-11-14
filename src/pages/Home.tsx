@@ -41,15 +41,15 @@ const Home = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 justify-items-center">
             <TarotCard
-              image="https://images.unsplash.com/photo-1633098216394-b48cc0d6d9f5?q=80&w=500"
+              image="https://astromatrix.app/images/astrotarot/Tarot%20Major%20Arcana/The%20Moon.jpg"
               name="The Moon"
             />
             <TarotCard
-              image="https://images.unsplash.com/photo-1632766669111-ad7a5ec7c8cf?q=80&w=500"
+              image="https://m.media-amazon.com/images/I/81LsF7XJDiL._AC_UF1000,1000_QL80_.jpg"
               name="The Star"
             />
             <TarotCard
-              image="https://images.unsplash.com/photo-1632767170674-6c5635e71f49?q=80&w=500"
+              image="https://i.pinimg.com/736x/88/01/f9/8801f9e749d0a41a63c44e6420d73ee3.jpg"
               name="The Sun"
             />
           </div>
